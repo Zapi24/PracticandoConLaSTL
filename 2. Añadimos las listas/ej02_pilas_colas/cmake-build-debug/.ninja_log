@@ -1,0 +1,10 @@
+# ninja log v5
+0	368	1698245170530780926	CMakeFiles/maxstack.dir/estudiante/src/maxstack.cpp.o	a9910e4e9f9e8ed8
+0	15	1697640715127488369	CMakeFiles/maxqueue.dir/estudiante/src/maxqueue.cpp.o	6f2aaf81b4a66e0f
+368	377	1698245170538780077	libmaxstack.a	13d48c0d3dbe0929
+0	262	1697641413077698432	CMakeFiles/pila_max.dir/estudiante/src/pila_max.cpp.o	9e00dcb0e0d8340e
+569	683	6858225545931777	cola_max.exe	c4c5b3f7628dcbcb
+15	21	1697640715139488209	libmaxqueue.a	36dbc9ac36db50b4
+377	435	1698245170594774129	pila_max	b16730d47a811941
+0	198	1697640715315485853	CMakeFiles/cola_max.dir/estudiante/src/cola_max.cpp.o	c01cb61c22917c8a
+199	252	1697640715367485157	cola_max	bc003ebdace43711

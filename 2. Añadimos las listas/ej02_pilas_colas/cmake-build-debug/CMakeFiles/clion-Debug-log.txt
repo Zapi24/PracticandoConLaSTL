@@ -1,0 +1,17 @@
+/snap/clion/250/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/250/bin/ninja/linux/x64/ninja -G Ninja -S /home/zapi24/Escritorio/ED/Practica3/ej02_pilas_colas -B /home/zapi24/Escritorio/ED/Practica3/ej02_pilas_colas/cmake-build-debug
+Doxygen build started
+-- Configuring done (0.1s)
+CMake Error at CMakeLists.txt:18 (add_executable):
+  Cannot find source file:
+
+    estudiante/src/ejercicio1.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h
+  .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc
+
+
+CMake Error at CMakeLists.txt:18 (add_executable):
+  No SOURCES given to target: cola_max
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

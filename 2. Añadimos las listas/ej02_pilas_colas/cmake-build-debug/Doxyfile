@@ -1,0 +1,6 @@
+PROJECT_NAME           = "Práctica 2. Pilas y Colas"
+OUTPUT_DIRECTORY       = /home/zapi24/Escritorio/ED/Practica3/ej02_pilas_colas/cmake-build-debug/doc_doxygen/
+INPUT                  = /home/zapi24/Escritorio/ED/Practica3/ej02_pilas_colas/estudiante/include /home/zapi24/Escritorio/ED/Practica3/ej02_pilas_colas/estudiante/src /home/zapi24/Escritorio/ED/Practica3/ej02_pilas_colas/estudiante/doc
+GENERATE_LATEX         = NO
+IMAGE_PATH             = /home/zapi24/Escritorio/ED/Practica3/ej02_pilas_colas/estudiante/doc
+EXTRACT_PRIVATE	       = NO
